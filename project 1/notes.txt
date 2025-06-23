@@ -1,0 +1,23 @@
+Overview of Gameplay:
+    In this game, the player plays as a gun dog and locates and retrieves downed waterfowl.
+        * waterfowl are shot down by the hunter
+        * player searches through tall grass
+
+    The player is given a time limit to locate all of the downed birds. Once the timer runs out, the player returns to the hunter and delivers the birds.
+
+    A treat is given to the player as a reward for collecting all birds, but if not birds are returned the hunter yells and the dog. 
+
+Character Skins:
+    Labrador Retriever                      (yellow, black, or chocolate color)
+    Golden Retriever                        (gold or cream color)
+    Nova Scotia Duck Tolling Retriever      (2 versions (differing patches))
+    Flat-coated Retriever                   (black or liver color)
+    Curly-coated Retriever                  (black or liver color)
+    Chesapeake Bay Retriever                (sedge, deadgrass, or brown color)
+    Poodle                                  (white, brown, or black color)
+
+
+General Notes:
+    This is a Casual Game intended to:
+        1) be a fun, temporary pastime
+        2) provide exposure to some sporting/gun dog breeds and their originl use.
