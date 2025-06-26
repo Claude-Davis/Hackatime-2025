@@ -21,3 +21,9 @@ General Notes:
     This is a Casual Game intended to:
         1) be a fun, temporary pastime
         2) provide exposure to some sporting/gun dog breeds and their originl use.
+
+Code Notes:
+    * class fowl
+        * subclass flying fowl
+        * subclass dead/shot fowl
+    * class player

@@ -70,7 +70,7 @@ class Player {
         this.width = 80;
         this.height = 80;
         this.x = 20;
-        this.y = 20;
+        this.y = 100;
         this.speedX = 0;
         this.speedY = 0;
     }
@@ -95,7 +95,11 @@ class Player {
 
 class Fowl{
     constructor(game){
-        //
+        this.game = game;
+        this.height = 20;
+        this.width = 20;
+        this.x = this.game.width;
+
     }
     update(){
         //
